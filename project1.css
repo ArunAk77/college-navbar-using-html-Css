@@ -1,9 +1,11 @@
 body {
     font-family: Arial, sans-serif;
+    background-color: black;
+    background-image: url("https://www.sathyabama.ac.in/sites/default/files/2020-01/DJI_0221.jpg");
+    background-size:100%;
     margin: 0;
     padding: 0;
 }
-
 header {
     background-color: #4CAF50;
     color: white;
@@ -28,8 +30,8 @@ nav ul li a {
 }
 
 section {
-    padding: 20px;
-    margin: 20px;
+    padding:10px 20px;
+    margin:10px 20px;
 }
 
 section#home {
